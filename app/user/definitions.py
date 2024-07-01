@@ -1,0 +1,2 @@
+SELLER_PREFIX = "sp"
+BUYER_PREFIX = "bp"
